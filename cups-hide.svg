@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160">
+<defs><path id="leaf" d="M0,-30 C18,-18 18,14 0,30 C-18,14 -18,-18 0,-30 Z" vector-effect="non-scaling-stroke"/></defs>
+<circle cx="80" cy="80" r="78" fill="#FBE9D6"/>
+<g stroke="#3B2A20" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round">
+<path d="M14,122 H146" fill="none"/><g transform="translate(112,112) rotate(75) scale(0.62)"><use href="#leaf" fill="#E3AE3F"/><path d="M0,-20 V38" fill="none" vector-effect="non-scaling-stroke"/></g><path d="M18,121 L30,66 h36 L78,121 Z" fill="#F2604A"/><path d="M30,78 h36" fill="none" stroke-width="2.5"/><g transform="rotate(-24 86 121)"><path d="M86,121 L98,66 h36 L146,121 Z" fill="#1E9E93"/><path d="M98,78 h36" fill="none" stroke-width="2.5"/></g><text x="80" y="50" text-anchor="middle" font-family="Trebuchet MS,Arial" font-weight="700" font-size="36" fill="#3B2A20" stroke="none">?</text>
+</g>
+</svg>

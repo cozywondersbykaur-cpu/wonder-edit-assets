@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160">
+<defs><path id="leaf" d="M0,-30 C18,-18 18,14 0,30 C-18,14 -18,-18 0,-30 Z" vector-effect="non-scaling-stroke"/></defs>
+<circle cx="80" cy="80" r="78" fill="#FBE9D6"/>
+<g stroke="#3B2A20" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round">
+<rect x="14" y="70" width="132" height="58" rx="14" fill="#C4CCD3"/><ellipse cx="46" cy="99" rx="17" ry="15" fill="#9AA5AF"/><ellipse cx="80" cy="99" rx="17" ry="15" fill="#9AA5AF"/><ellipse cx="114" cy="99" rx="17" ry="15" fill="#9AA5AF"/><g transform="translate(46,92) rotate(-20) scale(0.5)"><use href="#leaf" fill="#B5502F"/><path d="M0,-20 V38" fill="none" vector-effect="non-scaling-stroke"/></g><g transform="translate(80,90) rotate(10) scale(0.5)"><use href="#leaf" fill="#E3AE3F"/><path d="M0,-20 V38" fill="none" vector-effect="non-scaling-stroke"/></g><g transform="translate(114,92) rotate(-10) scale(0.5)"><use href="#leaf" fill="#8A9A5B"/><path d="M0,-20 V38" fill="none" vector-effect="non-scaling-stroke"/></g><g transform="translate(66,40) rotate(35) scale(0.6)"><use href="#leaf" fill="#E07B39"/><path d="M0,-20 V38" fill="none" vector-effect="non-scaling-stroke"/></g><path d="M88,30 q10,-4 16,4 M92,46 q8,0 12,6" fill="none" stroke-dasharray="1 7"/>
+</g>
+</svg>

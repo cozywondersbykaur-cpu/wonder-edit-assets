@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160">
+<defs><path id="leaf" d="M0,-30 C18,-18 18,14 0,30 C-18,14 -18,-18 0,-30 Z" vector-effect="non-scaling-stroke"/></defs>
+<circle cx="80" cy="80" r="78" fill="#FBE9D6"/>
+<g stroke="#3B2A20" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round">
+<rect x="24" y="24" width="112" height="112" rx="12" fill="#FFF6E8"/><path d="M61,24 V136 M99,24 V136 M24,61 H136 M24,99 H136" fill="none" stroke-width="2.5"/><g transform="translate(80,80) rotate(20) scale(0.42)"><use href="#leaf" fill="#E3AE3F"/><path d="M0,-20 V38" fill="none" vector-effect="non-scaling-stroke"/></g><circle cx="117" cy="42" r="8" fill="#B5502F"/><circle cx="43" cy="117" r="8" fill="#8A9A5B"/><path d="M34,44 l7,7 l12,-14 M108,118 l7,7 l12,-14" fill="none" stroke="#1E9E93" stroke-width="5"/><path d="M34,34 L126,126" fill="none" stroke="#F2604A" stroke-width="6" opacity=".85"/>
+</g>
+</svg>

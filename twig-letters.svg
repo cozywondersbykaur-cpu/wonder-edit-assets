@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160">
+<defs><path id="leaf" d="M0,-30 C18,-18 18,14 0,30 C-18,14 -18,-18 0,-30 Z" vector-effect="non-scaling-stroke"/></defs>
+<circle cx="80" cy="80" r="78" fill="#FBE9D6"/>
+<g stroke="#3B2A20" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round">
+<path d="M30,48 V118 M66,48 V118 M30,84 H66 M100,48 V118" fill="none" stroke="#7A4A2A" stroke-width="9"/><path d="M30,48 V118 M66,48 V118 M30,84 H66 M100,48 V118" fill="none" stroke="#A36A3F" stroke-width="3"/><g transform="translate(100,30) rotate(20) scale(0.4)"><use href="#leaf" fill="#B5502F"/><path d="M0,-20 V38" fill="none" vector-effect="non-scaling-stroke"/></g><g transform="translate(128,104) rotate(40) scale(0.6)"><use href="#leaf" fill="#E07B39"/><path d="M0,-20 V38" fill="none" vector-effect="non-scaling-stroke"/></g><g transform="translate(134,58) rotate(-30) scale(0.5)"><use href="#leaf" fill="#E3AE3F"/><path d="M0,-20 V38" fill="none" vector-effect="non-scaling-stroke"/></g><g transform="translate(22,132) rotate(-70) scale(0.45)"><use href="#leaf" fill="#8A9A5B"/><path d="M0,-20 V38" fill="none" vector-effect="non-scaling-stroke"/></g>
+</g>
+</svg>

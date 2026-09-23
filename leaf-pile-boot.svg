@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160">
+<defs><path id="leaf" d="M0,-30 C18,-18 18,14 0,30 C-18,14 -18,-18 0,-30 Z" vector-effect="non-scaling-stroke"/></defs>
+<circle cx="80" cy="80" r="78" fill="#FBE9D6"/>
+<g stroke="#3B2A20" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round">
+<g transform="translate(42,122) rotate(-65) scale(0.8)"><use href="#leaf" fill="#E07B39"/><path d="M0,-20 V38" fill="none" vector-effect="non-scaling-stroke"/></g><g transform="translate(118,124) rotate(70) scale(0.8)"><use href="#leaf" fill="#B5502F"/><path d="M0,-20 V38" fill="none" vector-effect="non-scaling-stroke"/></g><g transform="translate(64,128) rotate(95) scale(0.75)"><use href="#leaf" fill="#E3AE3F"/><path d="M0,-20 V38" fill="none" vector-effect="non-scaling-stroke"/></g><g transform="translate(98,128) rotate(-90) scale(0.75)"><use href="#leaf" fill="#8A9A5B"/><path d="M0,-20 V38" fill="none" vector-effect="non-scaling-stroke"/></g><g transform="translate(80,116) rotate(10) scale(0.7)"><use href="#leaf" fill="#8E3B46"/><path d="M0,-20 V38" fill="none" vector-effect="non-scaling-stroke"/></g><path d="M70,34 h28 v40 q0,6 8,8 l14,4 q16,5 16,16 v2 h-66 Z" fill="#1E9E93"/><rect x="64" y="22" width="40" height="14" rx="5" fill="#E3AE3F"/><path d="M72,56 h22" fill="none" stroke="#fff" stroke-width="3" opacity=".7"/><path d="M68,104 h70" stroke-width="7"/><path d="M46,58 q-9,7 0,14 M36,52 q-13,13 0,26" fill="none"/><path d="M140,66 l8,-6 M142,82 l10,0" fill="none"/>
+</g>
+</svg>
