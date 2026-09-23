@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" role="img" aria-label="The Wonder Edit">
+  <rect width="1080" height="1080" fill="#FFC43D"/>
+  <path d="M540,260 Q590,510 840,560 Q590,610 540,860 Q490,610 240,560 Q490,510 540,260 Z" fill="#F2604A" stroke="#F2604A" stroke-width="28" stroke-linejoin="round"/>
+  <path d="M800,160 Q818,252 910,270 Q818,288 800,380 Q782,288 690,270 Q782,252 800,160 Z" fill="#1E9E93" stroke="#1E9E93" stroke-width="14" stroke-linejoin="round"/>
+</svg>
